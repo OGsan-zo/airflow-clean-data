@@ -2,7 +2,8 @@
 
 set -e  # stop on error
 
-cd ~/Documents/Studies/ITU/Serveur/airflow
+# Dossier d'installation
+cd ~/Documents/Studies/ITU/Stage/ESPA/Data-cleaner/Serveur 
 
 # 1. Créer un environnement virtuel
 python3 -m venv airflow_env
